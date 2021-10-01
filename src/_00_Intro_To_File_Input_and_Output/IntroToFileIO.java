@@ -70,3 +70,5 @@ public class IntroToFileIO {
 		}
 	}
 }
+
+//Copyright © 2021 Derek Arce

@@ -27,7 +27,10 @@ public class DirectoryIterator {
 		 * Your task is to write a program that iterates through the src folder of this current Java Project. 
 		 * For every .java file it finds, the program will add a (non-legally binding) copyright statement at the bottom.
 		 * Be aware of possible directories inside of directories.
-		 * (e.g //Copyright Â© 2019 FirstName LastName)
+		 * (e.g //Copyright © 2019 FirstName LastName)
 		 */
+		
 	}
 }
+
+//Copyright © 2021 Derek Arce
